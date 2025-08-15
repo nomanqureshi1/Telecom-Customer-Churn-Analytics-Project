@@ -57,4 +57,3 @@ From this star schema, we can answer key business questions:
 5.	Which internet service type generates the highest average monthly revenue from churned customers?
 6.	What is the average tenure of churned customers by contract type?
 
-<img width="451" height="685" alt="image" src="https://github.com/user-attachments/assets/5407153b-c2b6-4793-9b1c-e2c5eefd3f9e" />
